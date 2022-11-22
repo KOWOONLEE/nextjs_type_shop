@@ -23,6 +23,7 @@ export default function Footer() {
           display: flex;
           justify-content: space-between;
           border-top: 1px solid gray;
+          font-size: 15px;
           padding: 15px;
           line-height: 5px;
         }
